@@ -1,7 +1,9 @@
 # [NuxtJS] README
-> YouTube : [Tyler Potts](https://youtu.be/CBwq_TUL5Fg)
-> </br>
 > SKILL : `Vue.js`, `NuxtJS Framework`
+> <br>
+> Nuxt JS Docs : [Nuxt JS Docs](https://nuxtjs.org/docs)
+> </br>
+> YouTube Class: [Tyler Potts](https://youtu.be/CBwq_TUL5Fg)
 
 ## NuxtJS 프로젝트 생성
 
